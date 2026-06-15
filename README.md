@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Robert Tworek profile banner" width="100%" />
+  <img src="./assets/banner.png" alt="Robert Tworek profile banner" width="100%" />
 </p>
 
 <p align="center">
