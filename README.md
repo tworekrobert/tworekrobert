@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Robert Tworek profile banner" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/tworekrobert/">
     <img src="https://img.shields.io/badge/LinkedIn-tworekrobert-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
