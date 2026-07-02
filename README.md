@@ -2,8 +2,6 @@
 
 # Robert Tworek
 
-### Technical Computer Science student building practical software projects.
-
 <p>
   <a href="https://portfoliotworekrobert.vercel.app/pl">
     <img src="https://img.shields.io/badge/Website-7B3FF2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=171124" alt="Website" />
