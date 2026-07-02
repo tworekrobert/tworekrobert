@@ -25,7 +25,7 @@
 
 ## About
 
-I am a **Technical Computer Science student at Wroclaw University of Science and Technology**, specializing in **IT systems in medicine**. I also hold the title of **IT technician**, 
+I am a **Technical Computer Science student at Wroclaw University of Science and Technology**, specializing in **IT systems in medicine**.
 
 My repositories focus on complete, runnable projects rather than isolated code snippets. I try to connect application logic with real data models, clear interfaces, validation, documentation and deployment or installation instructions.
 
