@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://portfoliotworekrobert.vercel.app/pl">
-    <img src="https://img.shields.io/badge/Visit_portfolio_website-7B3FF2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=171124" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-7B3FF2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=171124" alt="Website" />
   </a>
   <a href="https://github.com/tworekrobert">
     <img src="https://img.shields.io/badge/GitHub-tworekrobert-7B3FF2?style=for-the-badge&logo=github&logoColor=white&labelColor=171124" alt="GitHub profile" />
