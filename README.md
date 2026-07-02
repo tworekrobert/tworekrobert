@@ -18,7 +18,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Wroclaw-Poland-5B2BD8?style=for-the-badge&labelColor=4B4654" alt="Wroclaw, Poland" />
-  <img src="https://img.shields.io/badge/PL_%2F_EN-bilingual-5B2BD8?style=for-the-badge&labelColor=4B4654" alt="Polish and English" />
+  <img src="https://img.shields.io/badge/PL_%2F_EN-languages-5B2BD8?style=for-the-badge&labelColor=4B4654" alt="Polish and English" />
 </p>
 
 </div>
