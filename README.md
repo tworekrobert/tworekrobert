@@ -2,7 +2,7 @@
 
 # Robert Tworek
 
-### Technical Computer Science student building practical software projects with web, desktop, databases and system-oriented features.
+### Technical Computer Science student building practical software projects.
 
 <p>
   <a href="https://portfoliotworekrobert.vercel.app/pl">
@@ -25,7 +25,7 @@
 
 ## About
 
-I am a **Technical Computer Science student at Wroclaw University of Science and Technology**, specializing in **IT systems in medicine**. I also hold the title of **IT technician**, which gave me a practical foundation in computer systems, networks, websites and databases before university.
+I am a **Technical Computer Science student at Wroclaw University of Science and Technology**, specializing in **IT systems in medicine**. I also hold the title of **IT technician**, 
 
 My repositories focus on complete, runnable projects rather than isolated code snippets. I try to connect application logic with real data models, clear interfaces, validation, documentation and deployment or installation instructions.
 
@@ -61,23 +61,6 @@ My repositories focus on complete, runnable projects rather than isolated code s
   <img src="https://img.shields.io/badge/Linux-7B3FF2?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Windows-7B3FF2?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
 </p>
-
-## What I Usually Work With
-
-- desktop and web applications with structured user flows
-- relational databases, SQL, roles, reports and validation
-- TCP communication, process-based simulations and system behavior
-- documentation, setup instructions and project presentation
-- academic and portfolio projects built to be readable, testable and runnable
-
-## Education
-
-**Wroclaw University of Science and Technology**  
-Technical Computer Science, engineering studies  
-Specialization: IT systems in medicine
-
-**IT Technician**  
-Technical background in computer systems, networks, websites and databases.
 
 ## Contact
 
