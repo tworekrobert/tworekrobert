@@ -61,7 +61,3 @@ My repositories focus on complete, runnable projects rather than isolated code s
   <img src="https://img.shields.io/badge/Linux-7B3FF2?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Windows-7B3FF2?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
 </p>
-
-## Contact
-
-The easiest way to reach me is through [LinkedIn](https://www.linkedin.com/in/tworekrobert/) or my [portfolio website](https://portfoliotworekrobert.vercel.app/pl).
