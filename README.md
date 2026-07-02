@@ -31,12 +31,11 @@ My repositories focus on complete, runnable projects rather than isolated code s
 
 | Repository | Stack | Description |
 | --- | --- | --- |
-| [bilingual-portfolio-website](https://github.com/tworekrobert/bilingual-portfolio-website) | Next.js, React, TypeScript, Tailwind CSS | Personal bilingual portfolio with project case studies, GitHub repository index, CV download and contact section. |
 | [pharmacy-management-system](https://github.com/tworekrobert/pharmacy-management-system) | C#, Avalonia UI, PostgreSQL, ODBC | Desktop pharmacy management system with clients, medicines, sales, prescriptions, inventory, reports, roles, audit logs and database-backed workflows. |
 | [tsp-algorithms-benchmark](https://github.com/tworekrobert/tsp-algorithms-benchmark) | Python, C++, CSV | Comparison of exact algorithms, heuristics and metaheuristics for TSP and ATSP problems. |
 | [restaurant-process-simulation](https://github.com/tworekrobert/restaurant-process-simulation) | Java, Swing, TCP sockets, Bash | Multi-process restaurant simulation with client-server communication, resource allocation and live GUI state visualization. |
 | [vocabulary-learning-app](https://github.com/tworekrobert/vocabulary-learning-app) | Python, Django, HTML/CSS/JS | Web application for learning vocabulary with word sets, flashcards, quizzes and progress tracking. |
-
+| [bilingual-portfolio-website](https://github.com/tworekrobert/bilingual-portfolio-website) | Next.js, React, TypeScript, Tailwind CSS | Personal bilingual portfolio with project case studies, GitHub repository index, CV download and contact section. |
 ## Technologies
 
 <p>
