@@ -1,26 +1,6 @@
-# Hi, I'm Robert
-
-<p>
-  <a href="https://portfoliotworekrobert.vercel.app/pl">
-    <img src="https://img.shields.io/badge/Portfolio-7B3FF2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=171124" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/tworekrobert">
-    <img src="https://img.shields.io/badge/GitHub-tworekrobert-7B3FF2?style=for-the-badge&logo=github&logoColor=white&labelColor=171124" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/tworekrobert/">
-    <img src="https://img.shields.io/badge/LinkedIn-tworekrobert-7B3FF2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=171124" alt="LinkedIn" />
-  </a>
-</p>
-
 I'm a Technical Computer Science student at Wroclaw University of Science and Technology, specializing in IT systems in medicine.
 
 I build practical software projects around desktop and web applications, relational databases, system workflows, testing and technical documentation.
-
-## What I work with
-
-- daily practice: `.NET`, `C#`, `PostgreSQL`, `React`, `TypeScript`, `SQL`
-- also used in projects: `Avalonia UI`, `ASP.NET Core`, `Django`, `Java`, `C++`, `Docker`
-- I focus on runnable projects with clear setup, documentation, data models and real workflows
 
 ## Selected projects
 
@@ -39,7 +19,3 @@ I build practical software projects around desktop and web applications, relatio
 ## Currently
 
 I'm looking for my first practical IT experience where I can keep developing my technical skills while working with real systems, applications and databases.
-
-<a href="https://github.com/tworekrobert/pharmacy-management-system">
-  <img src="https://img.shields.io/badge/pharmacy--management--system-7B3FF2?style=flat-square&logo=github&logoColor=white&labelColor=171124" />
-</a>
