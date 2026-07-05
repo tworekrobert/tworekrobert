@@ -39,3 +39,7 @@ I build practical software projects around desktop and web applications, relatio
 ## Currently
 
 I'm looking for my first practical IT experience where I can keep developing my technical skills while working with real systems, applications and databases.
+
+<a href="https://github.com/tworekrobert/pharmacy-management-system">
+  <img src="https://img.shields.io/badge/pharmacy--management--system-7B3FF2?style=flat-square&logo=github&logoColor=white&labelColor=171124" />
+</a>
