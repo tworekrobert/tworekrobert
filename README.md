@@ -15,7 +15,3 @@ I build practical software projects around desktop and web applications, relatio
 
 - [bilingual-portfolio-website](https://github.com/tworekrobert/bilingual-portfolio-website)  
   Personal bilingual portfolio built with Next.js, React, TypeScript and Tailwind CSS.
-
-## Currently
-
-I'm looking for my first practical IT experience where I can keep developing my technical skills while working with real systems, applications and databases.
