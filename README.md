@@ -1,17 +1,16 @@
-I'm a Technical Computer Science student at Wroclaw University of Science and Technology, specializing in IT systems in medicine.
+# Hi, I'm Robert 👋
 
-I build practical software projects around desktop and web applications, relational databases, system workflows, testing and technical documentation.
+Junior C#/.NET Developer and Technical Computer Science student at Wroclaw University of Science and Technology.
 
-## Selected projects
+I build backend, full-stack and desktop applications using:
 
-- [pharmacy-management-system](https://github.com/tworekrobert/pharmacy-management-system)  
-  Desktop pharmacy management system built with C#, Avalonia UI and PostgreSQL.
+`C#` · `.NET` · `ASP.NET Core` · `PostgreSQL` · `React` · `Docker`
 
-- [helpdesk-management-system](https://github.com/tworekrobert/helpdesk-management-system)  
-  Full-stack IT helpdesk and asset management system built with ASP.NET Core, React, TypeScript and PostgreSQL.
+### Selected projects
 
-- [tsp-algorithms-benchmark](https://github.com/tworekrobert/tsp-algorithms-benchmark)  
-  C++ benchmark comparing exact algorithms, heuristics and metaheuristics for TSP and ATSP.
+- [Helpdesk Management System](https://github.com/tworekrobert/helpdesk-management-system) — full-stack ASP.NET Core helpdesk and asset management system
+- [Pharmacy Management System](https://github.com/tworekrobert/pharmacy-management-system) — cross-platform C# desktop application with PostgreSQL
+- [TSP Algorithms Benchmark](https://github.com/tworekrobert/tsp-algorithms-benchmark) — C++ algorithms and performance benchmarking
 
-- [bilingual-portfolio-website](https://github.com/tworekrobert/bilingual-portfolio-website)  
-  Personal bilingual portfolio built with Next.js, React, TypeScript and Tailwind CSS.
+[Portfolio](https://portfoliotworekrobert.vercel.app/en) ·
+[LinkedIn](https://www.linkedin.com/in/tworekrobert)
