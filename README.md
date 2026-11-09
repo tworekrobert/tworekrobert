@@ -6,4 +6,4 @@ My projects are pinned below: PostgreSQL, Docker, React and Angular, with automa
 
 Open to AI, automation and junior .NET roles. Remote or Wrocław.
 
-rtworek24@gmail.com · [Portfolio](https://portfoliotworekrobert.vercel.app/en) · [LinkedIn](https://www.linkedin.com/in/tworekrobert/)
+[Portfolio](https://portfoliotworekrobert.vercel.app/en) · [LinkedIn](https://www.linkedin.com/in/tworekrobert/)
