@@ -4,6 +4,4 @@ I build backend and full-stack applications in C# and ASP.NET Core, and I'm movi
 
 My projects are pinned below: PostgreSQL, Docker, React and Angular, with automated tests running in CI.
 
-Open to AI, automation and junior .NET roles. Remote or Wrocław.
-
 [Portfolio](https://portfoliotworekrobert.vercel.app/en) · [LinkedIn](https://www.linkedin.com/in/tworekrobert/)
